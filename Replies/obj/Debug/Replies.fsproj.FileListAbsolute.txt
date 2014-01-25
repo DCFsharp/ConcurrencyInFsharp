@@ -1,0 +1,8 @@
+C:\Demo\ConcurrecnyFSharp\DemoConcurrency\Replies\bin\Debug\Replies.exe.config
+C:\Demo\ConcurrecnyFSharp\DemoConcurrency\Replies\bin\Debug\Replies.XML
+C:\Demo\ConcurrecnyFSharp\DemoConcurrency\Replies\bin\Debug\Replies.exe
+C:\Demo\ConcurrecnyFSharp\DemoConcurrency\Replies\bin\Debug\Replies.pdb
+C:\Demo\ConcurrecnyFSharp\DemoConcurrency\Replies\bin\Debug\FSharp.Core.dll
+C:\Demo\ConcurrecnyFSharp\DemoConcurrency\Replies\bin\Debug\FSharp.Core.xml
+C:\Demo\ConcurrecnyFSharp\DemoConcurrency\Replies\obj\Debug\Replies.exe
+C:\Demo\ConcurrecnyFSharp\DemoConcurrency\Replies\obj\Debug\Replies.pdb

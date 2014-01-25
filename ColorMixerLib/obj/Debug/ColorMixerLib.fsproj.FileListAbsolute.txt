@@ -1,0 +1,8 @@
+C:\Demo\ConcurrecnyFSharp\DemoConcurrency\ColorMixerLib\bin\Debug\ColorMixerLib.XML
+C:\Demo\ConcurrecnyFSharp\DemoConcurrency\ColorMixerLib\bin\Debug\ColorMixerLib.dll
+C:\Demo\ConcurrecnyFSharp\DemoConcurrency\ColorMixerLib\bin\Debug\ColorMixerLib.pdb
+C:\Demo\ConcurrecnyFSharp\DemoConcurrency\ColorMixerLib\bin\Debug\FSharp.Core.dll
+C:\Demo\ConcurrecnyFSharp\DemoConcurrency\ColorMixerLib\bin\Debug\FSharp.Core.xml
+C:\Demo\ConcurrecnyFSharp\DemoConcurrency\ColorMixerLib\obj\Debug\ColorMixerLib.dll
+C:\Demo\ConcurrecnyFSharp\DemoConcurrency\ColorMixerLib\obj\Debug\ColorMixerLib.pdb
+C:\Demo\ConcurrecnyFSharp\DemoConcurrency\ColorMixerLib\obj\Debug\ColorMixerLib.fsprojResolveAssemblyReference.cache
