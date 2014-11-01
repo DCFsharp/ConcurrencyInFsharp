@@ -1,9 +1,0 @@
-C:\Demo\ConcurrecnyFSharp\DemoConcurrency\Console\bin\Debug\Console.exe.config
-C:\Demo\ConcurrecnyFSharp\DemoConcurrency\Console\bin\Debug\Console.exe
-C:\Demo\ConcurrecnyFSharp\DemoConcurrency\Console\bin\Debug\Console.pdb
-C:\Demo\ConcurrecnyFSharp\DemoConcurrency\Console\bin\Debug\DemoConcurrency.exe
-C:\Demo\ConcurrecnyFSharp\DemoConcurrency\Console\bin\Debug\DemoConcurrency.pdb
-C:\Demo\ConcurrecnyFSharp\DemoConcurrency\Console\bin\Debug\DemoConcurrency.xml
-C:\Demo\ConcurrecnyFSharp\DemoConcurrency\Console\obj\Debug\Console.csprojResolveAssemblyReference.cache
-C:\Demo\ConcurrecnyFSharp\DemoConcurrency\Console\obj\Debug\Console.exe
-C:\Demo\ConcurrecnyFSharp\DemoConcurrency\Console\obj\Debug\Console.pdb
